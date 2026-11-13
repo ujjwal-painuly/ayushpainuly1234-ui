@@ -45,20 +45,20 @@
         <span class="leetcode-rank"><span>GLOBAL RANK</span><strong>169,306</strong><small>View profile ↗</small></span>
       </a>
       <div class="dsa-topic-grid">
-        <a class="dsa-topic" href="https://github.com/ayushpainuly1234-ui/advanced-java-dsa/tree/main/graphs" target="_blank" rel="noreferrer"><strong>Graphs</strong><span>BFS · DFS · shortest paths ↗</span></a>
-        <a class="dsa-topic" href="https://github.com/ayushpainuly1234-ui/advanced-java-dsa/tree/main/dp" target="_blank" rel="noreferrer"><strong>Dynamic Programming</strong><span>States · transitions · patterns ↗</span></a>
-        <a class="dsa-topic" href="https://github.com/ayushpainuly1234-ui/advanced-java-dsa/tree/main/backtracking" target="_blank" rel="noreferrer"><strong>Backtracking</strong><span>Choices · recursion · pruning ↗</span></a>
-        <a class="dsa-topic" href="https://github.com/ayushpainuly1234-ui/advanced-java-dsa/tree/main/trees" target="_blank" rel="noreferrer"><strong>Trees &amp; BST</strong><span>Traversal · structure · search ↗</span></a>
+        <a class="dsa-topic" href="https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/graphs" target="_blank" rel="noreferrer"><strong>Graphs</strong><span>BFS · DFS · shortest paths ↗</span></a>
+        <a class="dsa-topic" href="https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/dp" target="_blank" rel="noreferrer"><strong>Dynamic Programming</strong><span>States · transitions · patterns ↗</span></a>
+        <a class="dsa-topic" href="https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/backtracking" target="_blank" rel="noreferrer"><strong>Backtracking</strong><span>Choices · recursion · pruning ↗</span></a>
+        <a class="dsa-topic" href="https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/trees" target="_blank" rel="noreferrer"><strong>Trees &amp; BST</strong><span>Traversal · structure · search ↗</span></a>
       </div>
       <div class="dsa-actions">
         <a class="button button-primary" href="#roadmap">Open full DSA roadmap ↗</a>
-        <a class="button button-secondary" href="https://github.com/ayushpainuly1234-ui/advanced-java-dsa" target="_blank" rel="noreferrer">All Java DSA files ↗</a>
+        <a class="button button-secondary" href="https://github.com/ujjwal-painuly/advanced-java-dsa" target="_blank" rel="noreferrer">All Java DSA files ↗</a>
         <a class="button button-secondary" href="https://leetcode.com/u/code_with_ujjwal26/" target="_blank" rel="noreferrer">Original LeetCode profile ↗</a>
       </div>
       <div class="profile-links" aria-label="Developer profiles">
-        <a href="https://github.com/ayushpainuly1234-ui" target="_blank" rel="noreferrer">GitHub ↗</a>
+        <a href="https://github.com/ujjwal-painuly" target="_blank" rel="noreferrer">GitHub ↗</a>
         <a href="https://leetcode.com/u/code_with_ujjwal26/" target="_blank" rel="noreferrer">LeetCode ↗</a>
-        <a href="https://github.com/ayushpainuly1234-ui/java-dsa-practice" target="_blank" rel="noreferrer">Java DSA Practice ↗</a>
+        <a href="https://github.com/ujjwal-painuly/java-dsa-practice" target="_blank" rel="noreferrer">Java DSA Practice ↗</a>
       </div>`;
     const hero = document.querySelector(".hero");
     hero.insertAdjacentElement("afterend", section);
