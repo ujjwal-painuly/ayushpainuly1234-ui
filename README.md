@@ -15,8 +15,9 @@ I enjoy solving algorithmic problems, understanding how systems work, and turnin
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA graduate, with a strong interest in software engineering and backend development.
+- 💻 Software developer focused on Java, problem-solving, and backend engineering.
 - ☕ Java is my primary language for Data Structures & Algorithms practice.
+- 📈 Solved **700+ coding problems** through LeetCode and hands-on practice in VS Code, strengthening my understanding of algorithms, data structures, and problem-solving patterns.
 - 🧠 Interested in problem-solving, algorithm design, complexity analysis, and core computer-science concepts.
 - 🌐 Building full-stack applications and learning how frontend, backend, APIs, and databases work together.
 - 🛠️ I value readable code, meaningful testing, honest documentation, and understanding the reasoning behind a solution.
@@ -35,7 +36,7 @@ I enjoy solving algorithmic problems, understanding how systems work, and turnin
 
 ## 🧩 Data Structures & Algorithms
 
-I practise DSA mainly in Java, focusing on understanding patterns instead of memorising solutions.
+I practise DSA mainly in Java, focusing on understanding patterns instead of memorising solutions. I have solved **700+ problems across LeetCode and VS Code-based practice**, with an emphasis on writing, testing, and refining solutions independently.
 
 - **Foundations:** Arrays, Strings, Hashing, Sorting, Searching, Binary Search, Two Pointers, Sliding Window.
 - **Linear data structures:** Linked Lists, Stacks, Queues, Deques.
