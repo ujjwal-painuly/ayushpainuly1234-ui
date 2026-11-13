@@ -49,7 +49,6 @@ I practise DSA mainly in Java, focusing on understanding patterns instead of mem
 - [Interactive DSA Roadmap — 443 problems](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/#roadmap)
 - [Advanced Java DSA repository](https://github.com/ujjwal-painuly/advanced-java-dsa)
 - [Java DSA Practice repository](https://github.com/ujjwal-painuly/java-dsa-practice)
-- [CampusNav Java DSA](https://github.com/ujjwal-painuly/campusnav-java-dsa)
 
 ## 🚀 Featured Projects
 
@@ -77,12 +76,6 @@ A responsive browser-based music player with playlist controls, track search, pl
 A topic-organised repository for practising data structures, algorithms, and problem-solving patterns in Java.
 
 **[📂 Explore Repository](https://github.com/ujjwal-painuly/advanced-java-dsa)**
-
-### 4. CampusNav — Java DSA Practice
-
-A repository for Java and DSA learning/practice.
-
-**[📂 Explore Repository](https://github.com/ujjwal-painuly/campusnav-java-dsa)**
 
 ## 🧰 Technical Skills
 
