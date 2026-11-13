@@ -17,13 +17,13 @@ I build practical software projects and practise problem-solving with a focus on
 
 ### DSA links
 
-- [Full interactive DSA roadmap — same portfolio page](https://ayushpainuly1234-ui.github.io/ayushpainuly1234-ui/#roadmap)
-- [Advanced Java DSA repository](https://github.com/ayushpainuly1234-ui/advanced-java-dsa)
-- [Graphs folder](https://github.com/ayushpainuly1234-ui/advanced-java-dsa/tree/main/graphs)
-- [Dynamic Programming folder](https://github.com/ayushpainuly1234-ui/advanced-java-dsa/tree/main/dp)
-- [Backtracking folder](https://github.com/ayushpainuly1234-ui/advanced-java-dsa/tree/main/backtracking)
-- [Trees folder](https://github.com/ayushpainuly1234-ui/advanced-java-dsa/tree/main/trees)
-- [Java DSA practice repository](https://github.com/ayushpainuly1234-ui/java-dsa-practice)
+- [Full interactive DSA roadmap — same portfolio page](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/#roadmap)
+- [Advanced Java DSA repository](https://github.com/ujjwal-painuly/advanced-java-dsa)
+- [Graphs folder](https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/graphs)
+- [Dynamic Programming folder](https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/dp)
+- [Backtracking folder](https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/backtracking)
+- [Trees folder](https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/trees)
+- [Java DSA practice repository](https://github.com/ujjwal-painuly/java-dsa-practice)
 
 ## Featured Projects
 
@@ -36,7 +36,7 @@ A full-stack portfolio application for reporting civic infrastructure issues and
 - Algorithmic planning experiments using Dijkstra shortest paths, 0/1 Knapsack DP, and Held–Karp bitmask DP for small stop sets.
 - Integration tests and GitHub Actions checks.
 
-[Live demo](https://civicfix-7q99.onrender.com) · [Source code](https://github.com/ayushpainuly1234-ui/civicfix)
+[Live demo](https://civicfix-7q99.onrender.com) · [Source code](https://github.com/ujjwal-painuly/civicfix)
 
 *Portfolio prototype using fictional demo data; not an official civic service.*
 
@@ -44,13 +44,13 @@ A full-stack portfolio application for reporting civic infrastructure issues and
 
 A topic-organised repository for practising core and advanced data structures and algorithmic patterns.
 
-[Open repository](https://github.com/ayushpainuly1234-ui/advanced-java-dsa)
+[Open repository](https://github.com/ujjwal-painuly/advanced-java-dsa)
 
 ### Ujjwal Music Player
 
 A responsive browser-based music player with playlist controls, track search, playback progress, and seeking.
 
-[Live demo](https://ayushpainuly1234-ui.github.io/ujjwal-music-player/) · [Source code](https://github.com/ayushpainuly1234-ui/ujjwal-music-player)
+[Live demo](https://ujjwal-painuly.github.io/ujjwal-music-player/) · [Source code](https://github.com/ujjwal-painuly/ujjwal-music-player)
 
 ## Technical Skills
 
@@ -85,11 +85,11 @@ Sharing my coding journey, Data Structures & Algorithms, problem-solving, and pr
 
 ## Profiles & Links
 
-- [Portfolio website](https://ayushpainuly1234-ui.github.io/ayushpainuly1234-ui/)
-- [GitHub profile](https://github.com/ayushpainuly1234-ui)
+- [Portfolio website](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/)
+- [GitHub profile](https://github.com/ujjwal-painuly)
 - [LeetCode — Code With Ujjwal (@code_with_ujjwal26)](https://leetcode.com/u/code_with_ujjwal26/)
-- [Advanced Java DSA](https://github.com/ayushpainuly1234-ui/advanced-java-dsa)
-- [Java DSA Practice](https://github.com/ayushpainuly1234-ui/java-dsa-practice)
+- [Advanced Java DSA](https://github.com/ujjwal-painuly/advanced-java-dsa)
+- [Java DSA Practice](https://github.com/ujjwal-painuly/java-dsa-practice)
 
 ---
 
