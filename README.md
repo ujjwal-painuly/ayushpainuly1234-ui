@@ -1,96 +1,125 @@
-# Ujjwal Painuly
+# Hey, I'm Ujjwal Painuly 👋
 
-**Software Developer | Java | Data Structures & Algorithms | Backend Engineering**
+### Software Developer | Java & DSA | Backend / Full-Stack Development
 
-I build practical software projects and practise problem-solving with a focus on clear logic, correctness, edge cases, and time/space complexity.
+I enjoy solving algorithmic problems, understanding how systems work, and turning ideas into practical software. My current focus is strengthening my Java and computer-science fundamentals while building web applications with clean APIs, reliable data handling, and useful user experiences.
 
-## DSA Focus
+<p align="left">
+  <a href="https://ujjwal-painuly.github.io/ayushpainuly1234-ui/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/code-with-ujjwal-83828a352/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/code_with_ujjwal26/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.youtube.com/@Ujjwalpainuly09"><img src="https://img.shields.io/badge/YouTube-Code%20With%20Ujjwal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+</p>
 
-**Java is my primary language for DSA and problem-solving.**
+---
 
-- **Core foundations:** Arrays, Strings, Linked Lists, Recursion, Searching, Sorting, Stacks, Queues, Hashing, and Binary Search.
-- **Trees:** Binary Trees, BSTs, tree traversals, and common tree patterns.
-- **Graphs:** BFS/DFS, connectivity, shortest paths, Union-Find/DSU, minimum spanning trees, and topological sorting.
-- **Dynamic Programming:** State definition, transitions, memoization, tabulation, space optimization, and advanced patterns.
-- **Backtracking:** Recursion trees, constraint handling, pruning, and combinatorial search.
-- **Problem-solving practice:** 700+ problems across LeetCode, VS Code, and independent practice.
+## 👨‍💻 About Me
 
-### DSA links
+- 🎓 BCA graduate, with a strong interest in software engineering and backend development.
+- ☕ Java is my primary language for Data Structures & Algorithms practice.
+- 🧠 Interested in problem-solving, algorithm design, complexity analysis, and core computer-science concepts.
+- 🌐 Building full-stack applications and learning how frontend, backend, APIs, and databases work together.
+- 🛠️ I value readable code, meaningful testing, honest documentation, and understanding the reasoning behind a solution.
+- 🎯 Working toward software developer / software engineer opportunities.
 
-- [Full interactive DSA roadmap — same portfolio page](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/#roadmap)
+## 🔗 Quick Links
+
+| Platform | Link |
+|---|---|
+| Portfolio website | [Open portfolio](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/) |
+| Interactive DSA roadmap | [Explore 443-problem roadmap](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/#roadmap) |
+| LinkedIn | [Code With Ujjwal](https://www.linkedin.com/in/code-with-ujjwal-83828a352/) |
+| LeetCode | [@code_with_ujjwal26](https://leetcode.com/u/code_with_ujjwal26/) |
+| YouTube | [Code With Ujjwal](https://www.youtube.com/@Ujjwalpainuly09) |
+| GitHub repositories | [Browse all repositories](https://github.com/ujjwal-painuly?tab=repositories) |
+
+## 🧩 Data Structures & Algorithms
+
+I practise DSA mainly in Java, focusing on understanding patterns instead of memorising solutions.
+
+- **Foundations:** Arrays, Strings, Hashing, Sorting, Searching, Binary Search, Two Pointers, Sliding Window.
+- **Linear data structures:** Linked Lists, Stacks, Queues, Deques.
+- **Trees:** Binary Trees, BSTs, traversals, recursion, and tree patterns.
+- **Graphs:** BFS, DFS, connected components, shortest paths, topological sorting, Union-Find / DSU, and minimum spanning trees.
+- **Dynamic Programming:** Memoization, tabulation, state transitions, space optimisation, and advanced DP patterns.
+- **Backtracking:** Recursion trees, pruning, constraint handling, and combinatorial search.
+
+### DSA practice links
+
+- [Interactive DSA Roadmap — 443 problems](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/#roadmap)
 - [Advanced Java DSA repository](https://github.com/ujjwal-painuly/advanced-java-dsa)
-- [Graphs folder](https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/graphs)
-- [Dynamic Programming folder](https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/dp)
-- [Backtracking folder](https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/backtracking)
-- [Trees folder](https://github.com/ujjwal-painuly/advanced-java-dsa/tree/main/trees)
-- [Java DSA practice repository](https://github.com/ujjwal-painuly/java-dsa-practice)
+- [Java DSA Practice repository](https://github.com/ujjwal-painuly/java-dsa-practice)
+- [CampusNav Java DSA](https://github.com/ujjwal-painuly/campusnav-java-dsa)
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### CivicFix — Civic Issue Reporting & Repair Planner
+### 1. CivicFix — Civic Issue Reporting & Repair Planner
 
-A full-stack portfolio application for reporting civic infrastructure issues and exploring repair planning under budget and crew-hour constraints.
+A full-stack project exploring civic issue reporting and repair planning under budget and crew-hour constraints.
 
 - Backend APIs for reports, account access, administrative workflows, and repair planning.
 - PostgreSQL for relational data and planning history; MongoDB for flexible issue reports.
 - Algorithmic planning experiments using Dijkstra shortest paths, 0/1 Knapsack DP, and Held–Karp bitmask DP for small stop sets.
 - Integration tests and GitHub Actions checks.
 
-[Live demo](https://civicfix-7q99.onrender.com) · [Source code](https://github.com/ujjwal-painuly/civicfix)
+**[🌐 Live Demo](https://civicfix-7q99.onrender.com) · [💻 Source Code](https://github.com/ujjwal-painuly/civicfix)**
 
 *Portfolio prototype using fictional demo data; not an official civic service.*
 
-### Advanced Java DSA
-
-A topic-organised repository for practising core and advanced data structures and algorithmic patterns.
-
-[Open repository](https://github.com/ujjwal-painuly/advanced-java-dsa)
-
-### Ujjwal Music Player
+### 2. Ujjwal Music Player
 
 A responsive browser-based music player with playlist controls, track search, playback progress, and seeking.
 
-[Live demo](https://ujjwal-painuly.github.io/ujjwal-music-player/) · [Source code](https://github.com/ujjwal-painuly/ujjwal-music-player)
+**[🌐 Live Demo](https://ujjwal-painuly.github.io/ujjwal-music-player/) · [💻 Source Code](https://github.com/ujjwal-painuly/ujjwal-music-player)**
 
-## Technical Skills
+### 3. Advanced Java DSA
 
-| Category | Skills |
+A topic-organised repository for practising data structures, algorithms, and problem-solving patterns in Java.
+
+**[📂 Explore Repository](https://github.com/ujjwal-painuly/advanced-java-dsa)**
+
+### 4. CampusNav — Java DSA Practice
+
+A repository for Java and DSA learning/practice.
+
+**[📂 Explore Repository](https://github.com/ujjwal-painuly/campusnav-java-dsa)**
+
+## 🧰 Technical Skills
+
+| Area | Technologies / Concepts |
 |---|---|
-| Programming languages | Java, C |
-| Data Structures & Algorithms | Arrays, Strings, Linked Lists, Recursion, Trees, Graphs, Dynamic Programming, Backtracking, Complexity Analysis |
-| Backend | Node.js, Express, REST APIs, Authentication |
-| Databases | PostgreSQL, MongoDB |
-| Web fundamentals | HTML, CSS, JavaScript basics |
+| Programming | Java, C, C++, Python |
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend | Node.js, Express.js, Spring Boot |
+| Databases | MongoDB, PostgreSQL |
+| DSA | Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Backtracking |
 | Core CS | OOP, DBMS, Operating Systems, Computer Networks |
-| Tools & practices | VS Code, Git, GitHub Actions, API testing, technical documentation |
+| Tools | Git, GitHub, VS Code, IntelliJ IDEA, Postman |
+| Deployment / workflow | GitHub Actions, Render, GitHub Pages |
 
-## Current Focus
+## 📚 Current Learning Focus
 
-- Strengthen independent problem-solving on unfamiliar DSA problems.
-- Explain correctness, edge cases, and time/space complexity clearly.
-- Improve Java and backend fundamentals, database design, API validation, and automated testing.
-- Build and document reliable projects with verifiable behaviour.
+- Strengthen Java, OOP, DBMS, Operating Systems, and Computer Networks.
+- Improve independent problem-solving on unfamiliar DSA questions.
+- Build robust REST APIs, improve database design, and write meaningful tests.
+- Learn system design fundamentals and write clearer technical documentation.
 
-## 🎥 The Channel — Code With Ujjwal
+## 🎥 Code With Ujjwal
 
-Sharing my coding journey, Data Structures & Algorithms, problem-solving, and practical software development learnings.
+I share my coding journey, DSA practice, problem-solving learnings, and software development projects.
 
-<p align="left">
-  <a href="https://www.youtube.com/@Ujjwalpainuly09">
-    <img src="https://img.shields.io/badge/YouTube-Code%20With%20Ujjwal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Code With Ujjwal on YouTube" />
-  </a>
-</p>
+**[▶ Visit my YouTube channel](https://www.youtube.com/@Ujjwalpainuly09)**
 
-**[▶ Visit Code With Ujjwal on YouTube](https://www.youtube.com/@Ujjwalpainuly09)**
+## 🤝 Connect With Me
 
-## Profiles & Links
-
-- [Portfolio website](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/)
-- [GitHub profile](https://github.com/ujjwal-painuly)
-- [LeetCode — Code With Ujjwal (@code_with_ujjwal26)](https://leetcode.com/u/code_with_ujjwal26/)
-- [Advanced Java DSA](https://github.com/ujjwal-painuly/advanced-java-dsa)
-- [Java DSA Practice](https://github.com/ujjwal-painuly/java-dsa-practice)
+- **GitHub:** [ujjwal-painuly](https://github.com/ujjwal-painuly)
+- **LinkedIn:** [Code With Ujjwal](https://www.linkedin.com/in/code-with-ujjwal-83828a352/)
+- **LeetCode:** [@code_with_ujjwal26](https://leetcode.com/u/code_with_ujjwal26/)
+- **YouTube:** [Code With Ujjwal](https://www.youtube.com/@Ujjwalpainuly09)
+- **Portfolio:** [ujjwal-painuly.github.io](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/)
 
 ---
 
-*Understand the problem. Design the solution. Test the edge cases.*
+<p align="center">
+  <i>Understand the problem. Design the solution. Test the edge cases. Keep building.</i>
+</p>
