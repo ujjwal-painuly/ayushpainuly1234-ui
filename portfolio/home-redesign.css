@@ -25,3 +25,6 @@ html{scroll-behavior:smooth;scroll-padding-top:90px}body{background:var(--bg);co
   .code-card,.project-card,.toolkit-card{transition:none}
   .hero-visual:hover .code-card,.project-card:hover,.toolkit-card:hover{transform:none}
 }
+
+/* OpenIssue portfolio project visual */
+.issue-art{background:#dce4df;display:flex;flex-direction:column;justify-content:center;gap:12px;padding:18px}.issue-window{max-width:460px;width:100%;margin:0 auto;background:#f7f8f5;border:1px solid rgba(32,40,32,.2);box-shadow:0 10px 22px rgba(32,40,32,.1);padding:11px 13px}.issue-toolbar{display:flex;align-items:center;gap:5px;padding-bottom:10px;border-bottom:1px solid rgba(32,40,32,.12);color:#687267;font:8px var(--mono);letter-spacing:.08em}.issue-toolbar i{width:6px;height:6px;border-radius:50%;background:#8c9c8d}.issue-toolbar span{margin-left:7px}.issue-row{display:grid;grid-template-columns:42px 1fr auto;gap:8px;align-items:center;padding:10px 3px;border-bottom:1px solid rgba(32,40,32,.09);color:#39463b;font-size:9px}.issue-row:last-child{border-bottom:0}.issue-row b{font:9px var(--mono);color:#8b5a42}.issue-row em{font:7px var(--mono);font-style:normal;letter-spacing:.06em;color:#6e806c}.project-context{margin-top:11px;color:#788274;font:8px var(--mono);letter-spacing:.04em}
