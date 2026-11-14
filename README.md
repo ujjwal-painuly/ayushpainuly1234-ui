@@ -62,7 +62,7 @@ A full-stack project exploring civic issue reporting and repair planning under b
 - Algorithmic planning experiments using Dijkstra shortest paths, 0/1 Knapsack DP, and Held–Karp bitmask DP for small stop sets.
 - Integration tests and GitHub Actions checks.
 
-**[🌐 Live Demo](https://civicfix-7q99.onrender.com) · [💻 Source Code](https://github.com/ujjwal-painuly/civicfix)**
+**Hosted demo currently unavailable** · [💻 Source Code](https://github.com/ujjwal-painuly/civicfix)
 
 *Portfolio prototype using fictional demo data; not an official civic service.*
 
@@ -70,7 +70,7 @@ A full-stack project exploring civic issue reporting and repair planning under b
 
 A responsive browser-based music player with playlist controls, track search, playback progress, and seeking.
 
-**[🌐 Live Demo](https://ujjwal-painuly.github.io/ujjwal-music-player/) · [💻 Source Code](https://github.com/ujjwal-painuly/ujjwal-music-player)**
+**Local browser prototype (public demo not deployed)** · [💻 Source Code](https://github.com/ujjwal-painuly/ujjwal-music-player)
 
 ### 3. Advanced Java DSA
 
