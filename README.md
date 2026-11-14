@@ -53,7 +53,21 @@ I practise DSA mainly in Java, focusing on understanding patterns instead of mem
 
 ## 🚀 Featured Projects
 
-### 1. CivicFix — Civic Issue Reporting & Repair Planner
+### 1. OpenIssue — Repository Issue Tracking & Collaboration API
+
+A backend API for repository issue tracking and collaboration, associated with Ctrl + Build Hackathon at Chandigarh University (April 2026).
+
+- Account registration and login with bcrypt password hashing and signed JWT access tokens.
+- Private/public repositories, ownership and member access.
+- Issue creation, priorities, statuses, labels, assignment, search, filters, and pagination.
+- Issue comments with author/owner permission checks and dashboard summaries.
+- Built with Node.js, Express, MongoDB/Mongoose, Zod, and baseline API security middleware.
+
+**Hosted API currently unavailable (503)** · [💻 Source Code](https://github.com/ujjwal-painuly/openissue-backend)
+
+*This repository contains the backend API; the React frontend is not included in this repo.*
+
+### 2. CivicFix — Civic Issue Reporting & Repair Planner
 
 A full-stack project exploring civic issue reporting and repair planning under budget and crew-hour constraints.
 
@@ -66,30 +80,34 @@ A full-stack project exploring civic issue reporting and repair planning under b
 
 *Portfolio prototype using fictional demo data; not an official civic service.*
 
-### 2. Ujjwal Music Player
+### 3. Ujjwal Music Player
 
 A responsive browser-based music player with playlist controls, track search, playback progress, and seeking.
 
 **Local browser prototype (public demo not deployed)** · [💻 Source Code](https://github.com/ujjwal-painuly/ujjwal-music-player)
 
-### 3. Advanced Java DSA
+### 4. Advanced Java DSA
 
 A topic-organised repository for practising data structures, algorithms, and problem-solving patterns in Java.
 
 **[📂 Explore Repository](https://github.com/ujjwal-painuly/advanced-java-dsa)**
 
+## 🏆 Hackathons & Coding Competitions
+
+- **Ctrl + Build Hackathon** — Chandigarh University (C Square Club), Participant, April 2026. Project: OpenIssue.
+- **ICC CodeClash 2026** — 139/150, Innoverse Coding Club, Chandigarh University (Uttar Pradesh).
+
 ## 🧰 Technical Skills
 
 | Area | Technologies / Concepts |
 |---|---|
-| Programming | Java, C, C++, Python |
-| Frontend | HTML, CSS, JavaScript, React |
-| Backend | Node.js, Express.js, Spring Boot |
-| Databases | MongoDB, PostgreSQL |
+| Programming | Java, C |
+| Frontend | HTML, CSS, JavaScript, React.js |
+| Backend | Node.js, Express.js, REST APIs, authentication |
+| Databases | PostgreSQL, MongoDB |
 | DSA | Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Backtracking |
-| Core CS | OOP, DBMS, Operating Systems, Computer Networks |
-| Tools | Git, GitHub, VS Code, IntelliJ IDEA, Postman |
-| Deployment / workflow | GitHub Actions, Render, GitHub Pages |
+| Core CS | OOP, DBMS, Operating Systems, Computer Networks, Low-Level Design |
+| Tools | Git, GitHub, GitHub Actions, VS Code |
 
 ## 📚 Current Learning Focus
 
