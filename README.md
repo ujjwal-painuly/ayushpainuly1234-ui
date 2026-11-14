@@ -53,6 +53,8 @@ I practise DSA mainly in Java, focusing on understanding patterns instead of mem
 
 ## 🚀 Featured Projects
 
+> **Recruiter quick view:** Start with [OpenIssue](https://github.com/ujjwal-painuly/openissue-backend) for backend/API work and [CivicFix](https://github.com/ujjwal-painuly/civicfix) for full-stack development and algorithmic planning. Each project README includes setup instructions, scope, and limitations.
+
 ### 1. OpenIssue — Repository Issue Tracking & Collaboration API
 
 A backend API for repository issue tracking and collaboration, associated with Ctrl + Build Hackathon at Chandigarh University (April 2026).
@@ -63,7 +65,9 @@ A backend API for repository issue tracking and collaboration, associated with C
 - Issue comments with author/owner permission checks and dashboard summaries.
 - Built with Node.js, Express, MongoDB/Mongoose, Zod, and baseline API security middleware.
 
-**Hosted API currently unavailable (503)** · [💻 Source Code](https://github.com/ujjwal-painuly/openissue-backend)
+**Deployment:** [API homepage](https://openissue-backend-5zye.onrender.com/) · [Health check](https://openissue-backend-5zye.onrender.com/api/v1/health) · [API index](https://openissue-backend-5zye.onrender.com/api/v1) · [💻 Source Code](https://github.com/ujjwal-painuly/openissue-backend)
+
+*Hosted availability can change; use the health-check endpoint to verify it before a demo.*
 
 *This repository contains the backend API; the React frontend is not included in this repo.*
 
@@ -76,7 +80,9 @@ A full-stack project exploring civic issue reporting and repair planning under b
 - Algorithmic planning experiments using Dijkstra shortest paths, 0/1 Knapsack DP, and Held–Karp bitmask DP for small stop sets.
 - Integration tests and GitHub Actions checks.
 
-**Hosted demo currently unavailable** · [💻 Source Code](https://github.com/ujjwal-painuly/civicfix)
+**Deployment:** [Live app](https://civicfix-7q99.onrender.com) · [API health check](https://civicfix-7q99.onrender.com/api/health) · [💻 Source Code](https://github.com/ujjwal-painuly/civicfix)
+
+*The free service may cold-start after inactivity; use the health check before a demo.*
 
 *Portfolio prototype using fictional demo data; not an official civic service.*
 
