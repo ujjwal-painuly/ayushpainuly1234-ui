@@ -28,7 +28,7 @@ I enjoy solving algorithmic problems, understanding how systems work, and turnin
 | Platform | Link |
 |---|---|
 | Portfolio website | [Open portfolio](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/) |
-| Interactive DSA roadmap | [Explore 443-problem roadmap](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/#roadmap) |
+| Interactive DSA roadmap / DSA Universe | [Launch app — 443-problem roadmap, Graph Lab and 3D architecture](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/dsa-lab/) |
 | LinkedIn | [Code With Ujjwal](https://www.linkedin.com/in/code-with-ujjwal-83828a352/) |
 | LeetCode | [@code_with_ujjwal26](https://leetcode.com/u/code_with_ujjwal26/) |
 | YouTube | [Code With Ujjwal](https://www.youtube.com/@Ujjwalpainuly09) |
@@ -97,6 +97,12 @@ A responsive browser-based music player with playlist controls, track search, pl
 A topic-organised repository for practising data structures, algorithms, and problem-solving patterns in Java.
 
 **[📂 Explore Repository](https://github.com/ujjwal-painuly/advanced-java-dsa)**
+
+### 5. DSA Universe — Interactive DSA Workspace
+
+A separate interactive app featuring a 443-question roadmap, Java algorithm library, graph visualizer, and interactive 3D project architecture.
+
+**[Launch DSA Universe](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/dsa-lab/)** · [Source Code](https://github.com/ujjwal-painuly/ayushpainuly1234-ui/tree/main/portfolio/dsa-lab)
 
 ## 🏆 Hackathons & Coding Competitions
 
